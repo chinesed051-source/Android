@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">净屏</string>
+    <string name="accessibility_description">自动识别并点击常见开屏广告的“跳过/关闭”按钮。处理在本机完成，不上传屏幕内容。</string>
+    <string name="widget_description">净屏保护状态与拦截统计</string>
+</resources>

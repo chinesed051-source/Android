@@ -1,0 +1,13 @@
+JingPing GitHub uploader v0.2.1
+
+1. Double-click PUSH_GITHUB_AND_BUILD.bat
+2. The script clones https://github.com/chinesed051-source/Android
+3. It copies this Android project into the repository
+4. It commits and pushes to main
+5. GitHub Actions starts automatically
+
+If push authentication fails:
+- Complete any GitHub browser/login prompt, then run the BAT file again.
+- If no prompt appears, open GitHub Desktop once, confirm you are signed in, then retry.
+
+This version intentionally keeps the PowerShell upload script ASCII-only to avoid Windows PowerShell 5.1 encoding/parser errors.
